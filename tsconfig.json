@@ -9,7 +9,10 @@
     "noPropertyAccessFromIndexSignature": true,
     "paths": {
       "lib-a": [
-        "./dist/lib-a"
+        "./projects/lib-a"
+      ],
+      "lib-a/*": [
+        "./projects/lib-a/*"
       ]
     },
     "noImplicitReturns": true,

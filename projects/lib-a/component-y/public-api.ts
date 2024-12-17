@@ -1,0 +1,1 @@
+export { ComponentY } from './component-y'

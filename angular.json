@@ -6,7 +6,7 @@
     "lib-a": {
       "projectType": "library",
       "root": "projects/lib-a",
-      "sourceRoot": "projects/lib-a/src",
+      "sourceRoot": "projects/lib-a",
       "prefix": "lib",
       "architect": {
         "build": {
